@@ -6,9 +6,9 @@ Created on Sat Dec 19 17:52:41 2020
 @author: abhishek
 """
 
-string= 'Gfg is best . Gfg also has Classes now. Classes help understand better . ' 
+string= 'self-study is best learning. self-study is also similar to Classes now. Classes help understand better.' 
 string_split= string.split(' ')
-rep_dic= {"Gfg": "it", "Classes": "They"}
+rep_dic= {"self-study": "it", "Classes": "They"}
 result= set()
 for i , j in enumerate(string_split):
     if j in rep_dic:
