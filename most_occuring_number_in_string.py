@@ -6,7 +6,7 @@ Created on Tue Dec 22 21:34:45 2020
 @author: abhishek
 """
 """
-Input :geek55of55geeks4abc3dr2 
+Input :abhishek55of55geeks4abc3dr2 
 Output :55
 
 Input :abcd1def22high22bnasvd23vjhd44
