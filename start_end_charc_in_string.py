@@ -50,20 +50,3 @@ def first_and_last_char_matching(string):
 if __name__=="__main__":
     string= "ababa"
     first_and_last_char_matching(string)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
