@@ -57,14 +57,3 @@ if __name__=="__main__":
     print(" let's see the sorted array: ")
     for i in range (0, len(arr)):
         print((arr[i]), end= " ")
-
-
-            
-            
-            
-        
-
-
-
-
-
